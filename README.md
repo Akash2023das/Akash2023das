@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Go lang**
 
-- 💬 Ask me about **Java, DSA , Competitive Programming  **
+- 💬 Ask me about **Java, DSA , Competitive Programming ,**
 
 - 📫 How to reach me **imakash9084@gmail.com**
 
