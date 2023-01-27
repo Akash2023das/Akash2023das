@@ -1,5 +1,5 @@
-# 💫 About Me:
-  Hi i'm Akash<br><br>🔭 I’m currently working on -> My Web Development Skills and Open Source<br>👯 I’m looking to collaborate on -> Any Open source project involving Web development<br>🤝 I’m looking for help with -> Web Project Development<br>🌱 I’m currently learning -> GoLang<br>💬 Ask me about -> Java, Data Structures , Competitive Programming<br>⚡ Fun fact ->  I love to watch Web Series
+# 💫 Hi I'm Akash Ruidas
+  About Me<br><br>🔭 I’m currently working on -> <b>My Web Development Skills and Open Source</b><br>👯 I’m looking to collaborate on -> <b>Any Open source project involving Web development</b><br>🤝 I’m looking for help with -><b> Web Project Development</b><br>🌱 I’m currently learning -> <b>GoLang</b><br>💬 Ask me about -> <b>Java, Data Structures , Competitive Programming</b><br>⚡ Fun fact -> <b> I love to watch Web Series </b>
 
 
 ## 🌐 Socials:
