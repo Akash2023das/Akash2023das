@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [API's](https://aws.amazon.com/what-is/api/#:~:text=API%20stands%20for%20Application%20Programming,other%20using%20requests%20and%20responses.)  
   
 
-- 🌱 I’m currently learning [Golang, Nodejs, JavaScript](https://go.dev/)  
+- 🌱 I’m currently learning [Python, djanGo, Golang, Nodejs, JavaScript](https://go.dev/)  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
